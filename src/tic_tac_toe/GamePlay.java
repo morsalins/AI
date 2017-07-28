@@ -15,10 +15,6 @@ public class GamePlay {
     public static final int PLAYER_TOKEN_VALUE = 1;
     public static final int CPU_TOKEN_VALUE = 0;
 
-    public static final int PLAYER_UTILITY_VALUE = -1;
-    public static final int CPU_UTILITY_VALUE = 1;
-    public static final int TIE_UTILITY_VALUE = 0;
-
     private final String PLAYER_WIN_MESSAGE = "Player Won!!!";
     private final String CPU_WIN_MESSAGE = "CPU Won!!!";
     private final String GAME_TIE_MESSAGE = "Game TIED!!!";
